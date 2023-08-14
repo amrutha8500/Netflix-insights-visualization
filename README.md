@@ -42,7 +42,7 @@ The dataset driving this project's insights is sourced from the renowned data sc
 
 ## Creator
 
-**Pradeep Gatti** - An ardent data enthusiast and storyteller.
+**Amrutha Varshini** - An ardent data enthusiast and storyteller.
 
 ## Licensing
 
